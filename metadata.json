@@ -1,0 +1,5 @@
+{
+  "name": "Templa",
+  "description": "AI-Assisted Document Authoring Platform. Create, refine, and export Word and PowerPoint documents using Gemini.",
+  "requestFramePermissions": []
+}
