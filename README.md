@@ -57,7 +57,7 @@ This is a full-stack application with a React frontend and a Node.js backend, bo
 
 Watch this 5-10 minute video to see a full demonstration of the application's features:
 
-[<img src="https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg" width="100%">](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Templa Demo Video")
+[](https://youtu.be/r7OJfi-p2hQ)
 
 **Video Content:**
 
