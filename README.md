@@ -57,7 +57,7 @@ This is a full-stack application with a React frontend and a Node.js backend, bo
 
 Watch this 5-10 minute video to see a full demonstration of the application's features:
 
-[](https://youtu.be/r7OJfi-p2hQ)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube&logoColor=white)](https://youtu.be/r7OJfi-p2hQ)
 
 **Video Content:**
 
